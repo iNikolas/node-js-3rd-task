@@ -1,1 +1,51 @@
-[{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"12.12.21, 18.11.21","dfdf":"fg","gfdgdf":"gdfgdfg"},{"name":"My elaborate plan of learning JavaScript","created":"Jan 15, 2021","category":"Task","content":"If I finally start learning JS today 15.01.2021, until my next birthday on 25.03.1989 I will be a great programmer","dates":"15.01.2021, 25.03.1989."},{"name":"Shopping List","created":"Oct 20, 2021","category":"Task","content":"Cream, apples, potato, beer.","dates":""},{"name":"New feature","created":"May 05, 2021","category":"Idea","content":"Make modal popups","dates":""},{"name":"Old feature","created":"Feb 25, 2021","category":"Random Thought","content":"Old feature better new twos.","dates":""},{"name":"I know a little about this life","created":"Oct 31, 2021","category":"Random Thought","content":"If life were predictable it would cease to be life, and be without flavor. ","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"fgjfgjghjgj"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"4"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"r"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"r","bla-bla":"trty"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"r","bla-bla":"trty"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"r","bla-bla":"trty"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"r","bla-bla":"trty"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"6"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"66"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"666"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"666"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"666"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"5"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"7657"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"7657"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"b"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":"trt"},{"name":"Shroud thoughts","created":"May 08, 2021","category":"Random Thought","content":"Banana is big but the peel is much bigger","dates":""}]
+[
+  {
+    "name": "Learn Java Script.",
+    "created": "Apr 20, 2020",
+    "category": "Idea",
+    "content": "If I learn JavaScript I will discover more opportunities in my life.",
+    "dates": ""
+  },
+  {
+    "name": "Shroud thoughts",
+    "created": "May 08, 2021",
+    "category": "Random Thought",
+    "content": "Banana is big but the peel is much bigger",
+    "dates": ""
+  },
+  {
+    "name": "My elaborate plan of learning JavaScript",
+    "created": "Jan 15, 2021",
+    "category": "Task",
+    "content": "If I finally start learning JS today 15.01.2021, until my next birthday on 25.03.1989 I will be a great programmer",
+    "dates": "15.01.2021, 25.03.1989."
+  },
+  {
+    "name": "Shopping List",
+    "created": "Oct 20, 2021",
+    "category": "Task",
+    "content": "Cream, apples, potato, beer.",
+    "dates": ""
+  },
+  {
+    "name": "New feature",
+    "created": "May 05, 2021",
+    "category": "Idea",
+    "content": "Make modal popups",
+    "dates": ""
+  },
+  {
+    "name": "Old feature",
+    "created": "Feb 25, 2021",
+    "category": "Random Thought",
+    "content": "Old feature better new twos.",
+    "dates": ""
+  },
+  {
+    "name": "I know a little about this life",
+    "created": "Oct 31, 2021",
+    "category": "Random Thought",
+    "content": "If life were predictable it would cease to be life, and be without flavor. ",
+    "dates": ""
+  }
+]
